@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       // home: const LogInPage(),
       //  home: const SignUpPage(),
       //home: SignUp1(),
-      home: LogIn1(),
+      home: SignUp1(),
     );
   }
 }
